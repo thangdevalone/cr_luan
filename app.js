@@ -17,7 +17,7 @@ button.addEventListener("click", function(){
     button.style.transform = "scale(0.8)";
     setTimeout(()=>{
         button.style.transform = "scale(1)";
-        window.location.href = "./love/love.html"
+        window.location.href = "https://www.facebook.com/luan.tong.9822"
     },200)
 })
 
